@@ -3,7 +3,7 @@ package deliverable01;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+//connection check
 public class GenerateCards {
 
     // Create a full 52-card deck using your Card enums
